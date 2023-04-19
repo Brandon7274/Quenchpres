@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079267011266",
+    "project_id": "quench-3f6cc",
+    "storage_bucket": "quench-3f6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079267011266:android:6f3779a42f086a5692e95b",
+        "android_client_info": {
+          "package_name": "com.example.quench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079267011266-7n9u4162mb0oaqfdbgv86vkpmv7oo4ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXp_bdnRxAwkZmy76LEEx_PGprZF13An4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079267011266-7n9u4162mb0oaqfdbgv86vkpmv7oo4ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

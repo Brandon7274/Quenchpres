@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quench</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYWQ2MDEyNG4iLCJhIjoiY2xndHB1MDh3MDgwYjNydDE0d3M3YnZ4NCJ9.ANz8Il0-rs-gJSPphdmjqA</string>
+    <string name="purple_map_style" translatable="false">mapbox://styles/mapbox/cj7bww7is2f4i2rnwyxkzpwu7</string>
+    <string name="blue_map_style" translatable="false">mapbox://styles/mapbox/cj7bwwv3caf7l2spgukxm8bwv</string>
+    <string name="terminal_map_style" translatable="false">mapbox://styles/mapbox/cj62n87yx3mvi2rp93sfp2w9z</string>
+    <string name="map_view">Map view</string>
+    <string name="failure_to_load_file">Failure to load the local file of locations. Please try reloading the app.</string>
+    <string name="mock_location_title">Fake device location</string>
+    <string name="select_a_theme">Tap on a theme</string>
+    <string name="no_internet_message">Route drawing not possible because there\'s no internet connection!</string>
+    <string name="failure_to_retrieve">Failure to retrieve the navigation route!</string>
+
+    <string name="hello_blank_fragment">Best overall water: Evian</string>
+    <string name="title_activity_profile">profile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="essentia">Essentia is da best dawg</string>
+    <string name="essentia_benefits">Essentia Water is a brand of alkaline water with a pH level of around 9.5. \n Essentia Water is infused with electrolytes such as sodium, potassium, calcium, and magnesium, which are important for maintaining proper hydration and supporting healthy muscles, nerves, and heart function. \n\n These minerals also help to balance the body\'s pH level and may improve overall health and well-being. </string>
+    <string name="fiji">Fiji</string>
+    <string name="fiji_benefits">Fiji Water is a brand of natural artesian water with a pH level of around 7.7-8.5. It is considered to be slightly alkaline, which can help to neutralize acid in the body and promote better digestion. \n\n Fiji Water contains a variety of minerals such as calcium, magnesium, and silica, which are important for maintaining healthy bones, muscles, and skin.</string>
+    <string name="poland_spring">Poland_Spring</string>
+    <string name="poland_spring_benefits">Poland Spring is a brand of natural spring water with a pH level of around 7.2-7.6. \n\n Poland Spring contains minerals such as calcium, magnesium, and potassium, which are important for maintaining healthy bones, muscles, and nerves.  </string>
+</resources>
